@@ -1,6 +1,6 @@
 # 📊 Data Professional Survey Breakdown - Power BI Dashboard
 
-![Dashboard Screenshot](./36f681c1-80f5-4ccb-b50d-0b2daf6bdb4f.png)
+<img src="/image/powerBi-projectDashboard.png" width="850" height="450" alt="Salary Dashboard Chart1">
 
 ## 🔍 Project Overview
 
@@ -64,5 +64,6 @@ See the screenshot above for a preview of the final dashboard.
 
 ## 📬 Contact
 
-For questions or collaboration opportunities, feel free to connect with me!
+This project highlights how powerful visual analytics can uncover meaningful patterns from raw data. Through this dashboard, we explored the landscape of data professionals from preferred tools and salaries to work-life satisfaction and job accessibility. This project enhanced my understanding of data cleaning, modeling, and storytelling using Power BI, laying a solid foundation for more advanced analytics projects in the future.
+
 
